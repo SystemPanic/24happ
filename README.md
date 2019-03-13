@@ -22,4 +22,4 @@ To start the server
 [npm]: https://www.npmjs.com/
 [es6]: http://es6-features.org/
 
-Powered by [[[/public/img/Browserstack-logo@2x.png]]](http://browserstack.com)
+Powered by [![Imgur](https://i.imgur.com/6ji0NoO.png)](http://browserstack.com)
