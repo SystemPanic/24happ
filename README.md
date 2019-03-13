@@ -7,16 +7,18 @@
 
  - Easy to __install__ via [npm][npm]
  - Easy to __use__ especially if you use [ES6][es6]
- - Easy to __read__ your code
+ - Easy to __read__
 
 ## Installation
 	$ git clone https://github.com/SystemPanic/24happ.git
 	$ cd 24happ
     $ npm install
 
-## Usage
-To start the server
+## To start the server
 	$ npm run start
+	
+## To embed in Cordova App
+	Currently testing
 
 [react]: http://facebook.github.io/react/
 [npm]: https://www.npmjs.com/
