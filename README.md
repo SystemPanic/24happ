@@ -22,6 +22,4 @@ To start the server
 [npm]: https://www.npmjs.com/
 [es6]: http://es6-features.org/
 
-Powered by !["Browserstack"]([browserstack-badge] "Browserstack")
-
-[browserstack-badge]: https://raw.githubusercontent.com/SystemPanic/24happ/master/public/img/Browserstack-logo.svg
+Powered by [!["Browserstack"](https://raw.githubusercontent.com/SystemPanic/24happ/master/public/img/Browserstack-logo.svg "Browserstack")]("http://browserstack.com" "Browserstack")
