@@ -21,3 +21,7 @@ To start the server
 [react]: http://facebook.github.io/react/
 [npm]: https://www.npmjs.com/
 [es6]: http://es6-features.org/
+
+Powered by !["Browserstack"]([browserstack-badge] "Browserstack")
+
+[browserstack-badge]: https://raw.githubusercontent.com/SystemPanic/24happ/master/public/img/Browserstack-logo.svg
