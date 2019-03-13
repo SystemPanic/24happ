@@ -1,0 +1,13 @@
+{
+  /*DESCRIPTOR OF MACHINE FEATURES*/
+  /*Payment features*/
+  "1": "Cash accepted",
+  "2": "Bills accepted",
+  "3": "Credit cards accepted",
+  "4": "Mobile accepted",
+  /*Security features*/
+  "5": "Enhanced security",
+  /*Handicap features*/
+  "6": "Adapted for blind",
+  "7": "Adapted for disabled"
+}

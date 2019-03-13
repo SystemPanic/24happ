@@ -1,0 +1,8 @@
+Activate your 24h App account
+Thanks for signing up for 24h App
+You must follow this link in order to activate your account: {{ACTIVATIONURL}}
+Best regards!
+The 24h App team - {{URL}}
+
+Copyright &copy; 2016 24h App. All rights reserved.
+You are receiving this mail because you signed up on 24h App.

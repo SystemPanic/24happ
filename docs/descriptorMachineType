@@ -1,0 +1,11 @@
+{
+  /*DESCRIPTOR OF MACHINE TYPES*/
+  "1": "Snacks",
+  "2": "Pharmacy",
+  "3": "Fast food",
+  "4": "Electronics",
+  "5": "Soft-drinks",
+  "6": "Cafe",
+  "7": "Mobile recharge",
+  "8": "Butchers"
+}
